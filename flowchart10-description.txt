@@ -1,0 +1,2 @@
+My daily process: Deciding whether to order pizza.
+First, I enter my hunger_level from 1 to 5. If my hunger_level is greater than 3, the output is "Order pizza". Otherwise, the output is "Don't order pizza".
